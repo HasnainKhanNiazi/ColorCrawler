@@ -1,0 +1,14 @@
+All Murray code is in Core
+MainSceneGame -- Weather Function
+
+Skybox --> WeatherMakerSkyBoxScatteringMaterial
+Two Prefabs needs to be here.....
+1: Canvas
+2: WeatherMakerPrefab
+
+Morning == 51855
+Afternoon == 65456
+Night == 67156
+
+SageMaker Instance Endpoint = GPT2-Endpoint
+Model Name = GPT2
